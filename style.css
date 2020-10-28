@@ -1,19 +1,21 @@
 .jumbotron {
-    background-image: url(https://img.freepik.com/free-photo/white-cloud-blue-sky_1203-11307.jpg?size=626&ext=jpg)
+    background-image: url(https://stemstudy.com/wp-content/uploads/2019/04/business-code-coding-943096-600x400.jpg)
+ 
 }
- .statement {
+    .statement {
   float: left;
   font-family: 'Hind', sans-serif;
   font-weight: bold;
 } 
 .lead {
     font-family: 'Playfair Display SC', serif;
-    color: 	#202020;
+    color: 	#E0E0E0;
 }
 
 .welcome {
     font-family: 'Playfair Display SC', serif;
     font-weight: bold;
+    color: #E0E0E0;
 }
 .projects{
     font-family: 'Playfair Display SC', serif;
